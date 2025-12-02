@@ -23,7 +23,7 @@
       {
         "id": "#issuer-profile",
         "type": "IssuerProfile",
-        "serviceEndpoint": "https://sirDemian.github.io/blckcert-unq/issuer-blockcerts.json"
+        "serviceEndpoint": "https://sirdemian.github.io/issuer-blockcerts.json"
       }
     ]
   }
